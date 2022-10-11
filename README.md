@@ -1,10 +1,10 @@
-# awesome-iouring
-Delightful IO_URING packages and resources
+# Awesome `io_uring` <a name="introduction"></a>
+Delightful `io_uring` packages and resources
 
 
 # Table of contents
 
-1. [Introduction](#awesome-iouring)
+1. [Introduction](#introduction)
 2. [Tutorials](#Tutorials)
 4. [Libraries](#Tutorials)
    - [C](#C) 
