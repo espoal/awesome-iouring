@@ -21,10 +21,10 @@ and knowledge.
 
 
 ## Tutorials
-Tutorials about io_uring
+Tutorials about `io_uring`
 
-- [Lord of the io_uring](https://unixism.net/loti/): Amazing collection of tutorials with deep explanations, 
-unfortunately not updated often
+- [Lord of the `io_uring`](https://unixism.net/loti/): Amazing collection of tutorials with deep explanations, 
+unfortunately not updated often.
 
 ## Libraries 
 Libraries for using `io_uring`
