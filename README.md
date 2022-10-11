@@ -14,6 +14,7 @@ and knowledge.
    - [C](#C) 
    - [Rust](#Rust)
    - [Golang](#Golang)
+   - [Javascript](#Javascript)
 5. [Projects](#projects)
 6. [Articles](#Articles)
 7. [Other notable resources](#other)
@@ -45,6 +46,11 @@ Libraries for using `io_uring`
 
 - [gouring](https://github.com/ii64/gouring): Amazing `io_uring` library in pure golang
 
+
+### Javascript
+
+- [Nodejs](https://github.com/nodejs/node/issues/34388): Issue tracking `io_uring` support
+
 ## Projects <a name="projects"></a>
 Projects using `io_uring`
 
@@ -62,5 +68,7 @@ Articles about io_uring
 Other resources about io_uring
 
 - [IRC channel](https://webchat.oftc.net/?nick=amazingnickname&channels=%23io_uring&uio=d4): 
-discussions about `io_uring`, you can find the archives [here](https://oftc.irclog.whitequark.org/io_uring/)
+discussions about `io_uring`. You can find the archives [here](https://oftc.irclog.whitequark.org/io_uring/)
 - [Mailing list](https://lore.kernel.org/io-uring/): The official dev mailing list of `io_uring`
+- [Stackoverflow](https://stackoverflow.com/questions/tagged/io-uring): 
+`io_uring` tagged questions and answers on stackoverflow
