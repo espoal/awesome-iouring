@@ -42,6 +42,8 @@ Libraries for using `io_uring`
 
 - [Seastar](https://github.com/scylladb/seastar): Asynchronous event-driven
   framework
+- [liburing4cpp](https://github.com/CarterLi/liburing4cpp): Binding for `io_uring`
+with coroutines support
 
 ### Rust
 
@@ -64,11 +66,11 @@ Libraries for using `io_uring`
 ### Python
 
 - [Liburing](https://github.com/YoSTEALTH/Liburing): Python bindings using CFFI
-- [Metacall](https://github.com/metacall/python-c-io_uring-example): Example python bindings using metacall
+- [Metacall](https://github.com/metacall/python-c-io_uring-example): Example python bindings using `metacall`
 
 ### Ocaml
 
-- [ocaml-uring](https://github.com/ocaml-multicore/ocaml-uring): `io_uring` bindings in OCaml
+- [ocaml-uring](https://github.com/ocaml-multicore/ocaml-uring): `io_uring` bindings for OCaml
 
 
 ## Projects <a name="projects"></a>
