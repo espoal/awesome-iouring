@@ -55,7 +55,7 @@ with coroutines support
 ### Golang
 
 - [gouring](https://github.com/ii64/gouring): Amazing `io_uring` library in pure golang
-
+- [iouring-go](https://github.com/Iceber/iouring-go): Async interface for `io_uring`
 
 ### Javascript
 
