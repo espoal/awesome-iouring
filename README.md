@@ -17,6 +17,8 @@ and knowledge.
    - [Golang](#Golang)
    - [Javascript](#Javascript)
    - [Python](#Python)
+   - [OCaml](#OCaml)
+
 5. [Projects](#projects)
 6. [Articles](#Articles)
 7. [Videos](#Videos)
@@ -78,6 +80,7 @@ using `io_uring`
 ## Projects <a name="projects"></a>
 Projects using `io_uring`
 
+- [Samba](https://www.snia.org/educational-library/samba-multi-channel-iouring-status-update-2021)
 - [Glommio](https://github.com/DataDog/glommio)
 - [Monoio](https://github.com/bytedance/monoio)
 - [RocksDB](http://rocksdb.org/)
@@ -85,6 +88,7 @@ Projects using `io_uring`
 - [Scylladb](https://github.com/scylladb/scylladb)
 - [Yottastore](https://github.com/yottaStore/yottaStore)
 - [Zuul](https://github.com/Netflix/zuul)
+- [QEMU](https://wiki.qemu.org/Features/IOUring)
 - [Tigerbeetle](https://github.com/tigerbeetledb/tigerbeetle)
 
 ## Articles
