@@ -44,6 +44,8 @@ Libraries for using `io_uring`
   framework
 - [liburing4cpp](https://github.com/CarterLi/liburing4cpp): Binding for `io_uring`
 with coroutines support
+- [ubdsrv](https://github.com/ming1/ubdsrv): Userspace block device driver
+using `io_uring`
 
 ### Rust
 
@@ -82,11 +84,14 @@ Projects using `io_uring`
 - [Bun](https://github.com/oven-sh/bun)
 - [Scylladb](https://github.com/scylladb/scylladb)
 - [Yottastore](https://github.com/yottaStore/yottaStore)
+- [Zuul](https://github.com/Netflix/zuul)
 
 ## Articles
 Articles about `io_uring`
 
 - [How io_uring and eBPF Will Revolutionize Programming in Linux](https://www.scylladb.com/2020/05/05/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/)
+- [Missing manuals - io_uring worker pool](https://blog.cloudflare.com/missing-manuals-io_uring-worker-pool/)
+- [Experiments with io_uring](https://blog.virtual-void.net/2022/10/11/experiments-with-io-uring/)
 
 ## Other notable resources <a name="other"></a>
 Other resources about `io_uring`
