@@ -58,6 +58,7 @@ Libraries for using `io_uring`
 
 - [Bun](https://github.com/oven-sh/bun/blob/40eca63653db107fe69fd0208cc994b0d922070f/src/io/io_linux.zig#L530): Bun has support for `io_uring`
 - [Nodejs](https://github.com/nodejs/node/issues/34388): Issue tracking `io_uring` support
+- [Deno](https://github.com/denoland/deno/issues/16232): Issue tracking `io_uring` support
 
 ## Projects <a name="projects"></a>
 Projects using `io_uring`
