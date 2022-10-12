@@ -12,7 +12,7 @@ and knowledge.
 2. [Tutorials](#Tutorials)
 4. [Libraries](#Tutorials)
    - [C](#C) 
-   - [C++](#C++)
+   - [C++](#C-1)
    - [Rust](#Rust)
    - [Golang](#Golang)
    - [Javascript](#Javascript)
