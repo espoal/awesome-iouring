@@ -58,6 +58,7 @@ Projects using `io_uring`
 - [Glommio](https://github.com/DataDog/glommio)
 - [Monoio](https://github.com/bytedance/monoio)
 - [RocksDB](http://rocksdb.org/)
+- [Bun](https://github.com/oven-sh/bun)
 - [Yottastore](https://github.com/yottaStore/yottaStore)
 
 ## Articles
