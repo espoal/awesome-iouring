@@ -17,10 +17,10 @@ and knowledge.
    - [Golang](#Golang)
    - [Javascript](#Javascript)
    - [Python](#Python)
-
 5. [Projects](#projects)
 6. [Articles](#Articles)
-7. [Other notable resources](#other)
+7. [Videos](#Videos)
+8. [Other notable resources](#other)
 
 
 ## Tutorials
@@ -85,6 +85,7 @@ Projects using `io_uring`
 - [Scylladb](https://github.com/scylladb/scylladb)
 - [Yottastore](https://github.com/yottaStore/yottaStore)
 - [Zuul](https://github.com/Netflix/zuul)
+- [Tigerbeetle](https://github.com/tigerbeetledb/tigerbeetle)
 
 ## Articles
 Articles about `io_uring`
@@ -92,6 +93,10 @@ Articles about `io_uring`
 - [How io_uring and eBPF Will Revolutionize Programming in Linux](https://www.scylladb.com/2020/05/05/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/)
 - [Missing manuals - io_uring worker pool](https://blog.cloudflare.com/missing-manuals-io_uring-worker-pool/)
 - [Experiments with io_uring](https://blog.virtual-void.net/2022/10/11/experiments-with-io-uring/)
+
+## Videos
+
+- [Understanding Modern Storage APIs: A systematic study of libaio, SPDK, and io_uring](https://www.youtube.com/watch?v=5jKKVdJJqKY)
 
 ## Other notable resources <a name="other"></a>
 Other resources about `io_uring`
