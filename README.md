@@ -12,6 +12,7 @@ and knowledge.
 2. [Tutorials](#Tutorials)
 4. [Libraries](#Tutorials)
    - [C](#C) 
+   - [C++](#C++)
    - [Rust](#Rust)
    - [Golang](#Golang)
    - [Javascript](#Javascript)
@@ -35,6 +36,11 @@ Libraries for using `io_uring`
 - [xnvme](https://xnvme.io/): NVMe library with `io_uring` support
 - [SPDK](https://spdk.io/): Intel library focused on performant io, with `io_uring` support
 
+### C++
+
+- [Seastar](https://github.com/scylladb/seastar): Asynchronous event-driven
+  framework
+
 ### Rust
 
 - [tokio-uring](https://github.com/tokio-rs/tokio-uring): An `io_uring` backend for `tokio`
@@ -46,10 +52,7 @@ Libraries for using `io_uring`
 
 - [gouring](https://github.com/ii64/gouring): Amazing `io_uring` library in pure golang
 
-### C++
 
-- [Seastar](https://github.com/scylladb/seastar): Asynchronous event-driven
-framework
 
 ### Javascript
 
