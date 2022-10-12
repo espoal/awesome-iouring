@@ -46,6 +46,10 @@ Libraries for using `io_uring`
 
 - [gouring](https://github.com/ii64/gouring): Amazing `io_uring` library in pure golang
 
+### C++
+
+- [Seastar](https://github.com/scylladb/seastar): Asynchronous event-driven
+framework
 
 ### Javascript
 
@@ -59,6 +63,7 @@ Projects using `io_uring`
 - [Monoio](https://github.com/bytedance/monoio)
 - [RocksDB](http://rocksdb.org/)
 - [Bun](https://github.com/oven-sh/bun)
+- [Scylladb](https://github.com/scylladb/scylladb)
 - [Yottastore](https://github.com/yottaStore/yottaStore)
 
 ## Articles
