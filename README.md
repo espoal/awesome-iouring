@@ -16,6 +16,8 @@ and knowledge.
    - [Rust](#Rust)
    - [Golang](#Golang)
    - [Javascript](#Javascript)
+   - [Python](#Python)
+
 5. [Projects](#projects)
 6. [Articles](#Articles)
 7. [Other notable resources](#other)
@@ -53,12 +55,21 @@ Libraries for using `io_uring`
 - [gouring](https://github.com/ii64/gouring): Amazing `io_uring` library in pure golang
 
 
-
 ### Javascript
 
 - [Bun](https://github.com/oven-sh/bun/blob/40eca63653db107fe69fd0208cc994b0d922070f/src/io/io_linux.zig#L530): Bun has support for `io_uring`
 - [Nodejs](https://github.com/nodejs/node/issues/34388): Issue tracking `io_uring` support
 - [Deno](https://github.com/denoland/deno/issues/16232): Issue tracking `io_uring` support
+
+### Python
+
+- [Liburing](https://github.com/YoSTEALTH/Liburing): Python bindings using CFFI
+- [Metacall](https://github.com/metacall/python-c-io_uring-example): Example python bindings using metacall
+
+### Ocaml
+
+- [ocaml-uring](https://github.com/ocaml-multicore/ocaml-uring): `io_uring` bindings in OCaml
+
 
 ## Projects <a name="projects"></a>
 Projects using `io_uring`
@@ -71,12 +82,12 @@ Projects using `io_uring`
 - [Yottastore](https://github.com/yottaStore/yottaStore)
 
 ## Articles
-Articles about io_uring
+Articles about `io_uring`
 
 - [How io_uring and eBPF Will Revolutionize Programming in Linux](https://www.scylladb.com/2020/05/05/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/)
 
 ## Other notable resources <a name="other"></a>
-Other resources about io_uring
+Other resources about `io_uring`
 
 - [IRC channel](https://webchat.oftc.net/?nick=amazingnickname&channels=%23io_uring&uio=d4): 
 discussions about `io_uring`. You can find the archives [here](https://oftc.irclog.whitequark.org/io_uring/)
