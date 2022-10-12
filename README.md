@@ -12,7 +12,7 @@ and knowledge.
 2. [Tutorials](#Tutorials)
 4. [Libraries](#Tutorials)
    - [C](#C) 
-   - [C++](#C++)
+   - [C++](#C-1)
    - [Rust](#Rust)
    - [Golang](#Golang)
    - [Javascript](#Javascript)
@@ -52,10 +52,6 @@ Libraries for using `io_uring`
 
 - [gouring](https://github.com/ii64/gouring): Amazing `io_uring` library in pure golang
 
-### C++
-
-- [Seastar](https://github.com/scylladb/seastar): Asynchronous event-driven
-framework
 
 
 ### Javascript
