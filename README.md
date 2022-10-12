@@ -17,6 +17,7 @@ and knowledge.
    - [Golang](#Golang)
    - [Javascript](#Javascript)
    - [Python](#Python)
+   - [Java](#Java)
    - [OCaml](#OCaml)
 
 5. [Projects](#projects)
@@ -72,6 +73,10 @@ using `io_uring`
 - [Liburing](https://github.com/YoSTEALTH/Liburing): Python bindings using CFFI
 - [Metacall](https://github.com/metacall/python-c-io_uring-example): Example python bindings using `metacall`
 
+### Java
+
+- [Netty transport](https://github.com/netty/netty-incubator-transport-io_uring)
+
 ### Ocaml
 
 - [ocaml-uring](https://github.com/ocaml-multicore/ocaml-uring): `io_uring` bindings for OCaml
@@ -90,6 +95,7 @@ Projects using `io_uring`
 - [Zuul](https://github.com/Netflix/zuul)
 - [QEMU](https://wiki.qemu.org/Features/IOUring)
 - [Tigerbeetle](https://github.com/tigerbeetledb/tigerbeetle)
+- [Netty](https://github.com/netty/netty-incubator-transport-io_uring)
 
 ## Articles
 Articles about `io_uring`
