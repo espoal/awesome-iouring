@@ -21,10 +21,10 @@ and knowledge.
 
 
 ## Tutorials
-Tutorials about io_uring
+Tutorials about `io_uring`
 
-- [Lord of the io_uring](https://unixism.net/loti/): Amazing collection of tutorials with deep explanations, 
-unfortunately not updated often
+- [Lord of the `io_uring`](https://unixism.net/loti/): Amazing collection of tutorials with deep explanations, 
+unfortunately not updated often.
 
 ## Libraries 
 Libraries for using `io_uring`
@@ -49,6 +49,7 @@ Libraries for using `io_uring`
 
 ### Javascript
 
+- [Bun](https://github.com/oven-sh/bun/blob/40eca63653db107fe69fd0208cc994b0d922070f/src/io/io_linux.zig#L530): Bun has support for `io_uring`
 - [Nodejs](https://github.com/nodejs/node/issues/34388): Issue tracking `io_uring` support
 
 ## Projects <a name="projects"></a>
