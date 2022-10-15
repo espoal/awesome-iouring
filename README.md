@@ -40,6 +40,7 @@ Libraries for using `io_uring`
 - [liburing](https://github.com/axboe/liburing): Helper to interact with the kernel `io_uring` interface
 - [xnvme](https://xnvme.io/): NVMe library with `io_uring` support
 - [SPDK](https://spdk.io/): Intel library focused on performant io, with `io_uring` support
+- [libev](https://github.com/hanyong/libev): High performance event loop
 
 ### C++
 
@@ -49,6 +50,8 @@ Libraries for using `io_uring`
 with coroutines support
 - [ubdsrv](https://github.com/ming1/ubdsrv): Userspace block device driver
 using `io_uring`
+- [libunifex](https://github.com/facebookexperimental/libunifex): Facebook prototype for cpp async 
+programming model
 
 ### Rust
 
@@ -96,6 +99,8 @@ Projects using `io_uring`
 - [QEMU](https://wiki.qemu.org/Features/IOUring)
 - [Tigerbeetle](https://github.com/tigerbeetledb/tigerbeetle)
 - [Netty](https://github.com/netty/netty-incubator-transport-io_uring)
+- [Ceph](https://github.com/ceph/ceph)
+- [Postgres](https://github.com/anarazel/postgres/tree/aio) (experimental)
 
 ## Articles
 Articles about `io_uring`
