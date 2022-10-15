@@ -21,6 +21,11 @@ and knowledge.
    - [OCaml](#OCaml)
 
 5. [Projects](#projects)
+   - [Databases](#Databases)
+   - [Storage engines](#storage)
+   - [Network](#network)
+   - [Other](#other)
+   
 6. [Articles](#Articles)
 7. [Videos](#Videos)
 8. [Other notable resources](#other)
@@ -85,22 +90,36 @@ programming model
 - [ocaml-uring](https://github.com/ocaml-multicore/ocaml-uring): `io_uring` bindings for OCaml
 
 
-## Projects <a name="projects"></a>
+## Projects 
 Projects using `io_uring`
 
-- [Samba](https://www.snia.org/educational-library/samba-multi-channel-iouring-status-update-2021)
+### Databases
+
+- [Yottastore](https://github.com/yottaStore/yottaStore)
+- [Scylladb](https://github.com/scylladb/scylladb)
+- [Postgres](https://github.com/anarazel/postgres/tree/aio) (experimental)
+- [questdb](https://github.com/questdb/questdb)
+
+### Storage engines <a name="storage"></a>
+
 - [Glommio](https://github.com/DataDog/glommio)
 - [Monoio](https://github.com/bytedance/monoio)
 - [RocksDB](http://rocksdb.org/)
-- [Bun](https://github.com/oven-sh/bun)
-- [Scylladb](https://github.com/scylladb/scylladb)
-- [Yottastore](https://github.com/yottaStore/yottaStore)
-- [Zuul](https://github.com/Netflix/zuul)
-- [QEMU](https://wiki.qemu.org/Features/IOUring)
 - [Tigerbeetle](https://github.com/tigerbeetledb/tigerbeetle)
-- [Netty](https://github.com/netty/netty-incubator-transport-io_uring)
 - [Ceph](https://github.com/ceph/ceph)
-- [Postgres](https://github.com/anarazel/postgres/tree/aio) (experimental)
+- [Samba](https://www.snia.org/educational-library/samba-multi-channel-iouring-status-update-2021)
+
+### Network
+
+- [Netty](https://github.com/netty/netty-incubator-transport-io_uring)
+- [Zuul](https://github.com/Netflix/zuul)
+
+
+### Other
+
+- [QEMU](https://wiki.qemu.org/Features/IOUring)
+- [Bun](https://github.com/oven-sh/bun)
+
 
 ## Articles
 Articles about `io_uring`
