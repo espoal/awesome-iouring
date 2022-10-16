@@ -34,8 +34,15 @@ and knowledge.
 ## Tutorials
 Tutorials about `io_uring`
 
+### C
+
 - [Lord of the `io_uring`](https://unixism.net/loti/): Amazing collection of tutorials with deep explanations, 
 unfortunately not updated often.
+
+### Zig
+
+- [Building a high-performance database buffer pool in Zig using io_uring's new fixed-buffer mode](https://gavinray97.github.io/blog/io-uring-fixed-bufferpool-zig)
+
 
 ## Libraries 
 Libraries for using `io_uring`
@@ -124,9 +131,12 @@ Projects using `io_uring`
 ## Articles
 Articles about `io_uring`
 
+- [Efficient IO with `io_uring`](https://kernel.dk/io_uring.pdf)
+- [Ringing in a new asynchronous I/O API](https://lwn.net/Articles/776703/)
 - [How io_uring and eBPF Will Revolutionize Programming in Linux](https://www.scylladb.com/2020/05/05/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/)
-- [Missing manuals - io_uring worker pool](https://blog.cloudflare.com/missing-manuals-io_uring-worker-pool/)
 - [Experiments with io_uring](https://blog.virtual-void.net/2022/10/11/experiments-with-io-uring/)
+- [IO_uring Fixed Buffer Versus Non-Fixed Buffer Performance Comparison on NVMe](https://00pauln00.medium.com/io-uring-fixed-buffer-versus-non-fixed-buffer-performance-comparison-9fd506de6829)
+- [Missing manuals - io_uring worker pool](https://blog.cloudflare.com/missing-manuals-io_uring-worker-pool/)
 
 ## Videos
 

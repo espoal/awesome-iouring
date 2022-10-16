@@ -1,6 +1,4 @@
-# The missing `io_uring` tutorial
-
-## Best practices
+# Best practices for using `io_uring`
 
 - Use fixed buffers when possible
 - Implement syscalls with `io_uring`, not only `read` and `write` but also `open`, ...
