@@ -90,7 +90,13 @@ programming model
 
 ### Java
 
+- [Jasyncfio](https://github.com/ikorennoy/jasyncfio): Async io library
+- [nio_uring](https://github.com/bbeaupain/nio_uring): Async io library
 - [Netty transport](https://github.com/netty/netty-incubator-transport-io_uring)
+
+### Kotlin
+
+- [kuring](https://github.com/ikorennoy/kuring): Async io library
 
 ### Ocaml
 
