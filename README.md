@@ -18,6 +18,7 @@ and knowledge.
    - [Javascript](#Javascript)
    - [Python](#Python)
    - [Java](#Java)
+   - [Kotlin](#Kotlin)
    - [OCaml](#OCaml)
 
 5. [Projects](#projects)
