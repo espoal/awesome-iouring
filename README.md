@@ -35,6 +35,8 @@ and knowledge.
 ## Tutorials
 Tutorials about `io_uring`
 
+- [io_uring and networking in 2023](https://kernel.dk/io_uring%20and%20networking%20in%202023.pdf): tutorial written by Jens Axboe, the creator of `io_uring`
+
 ### C
 
 - [Lord of the `io_uring`](https://unixism.net/loti/): Amazing collection of tutorials with deep explanations, 
