@@ -1,6 +1,6 @@
 # Awesome `io_uring` <a name="introduction"></a>
 `io_uring` is considered one of the most revolutionary interfaces
-for the linux kernel, [find out why]().
+for the linux kernel, [find out why](https://www.scylladb.com/2020/05/05/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/).
 
 In this repository we try to collect examples, tutorials and
 documentation about this amazing project, to raise awarness
