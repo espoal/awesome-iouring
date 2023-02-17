@@ -146,6 +146,7 @@ Articles about `io_uring`
 - [Experiments with io_uring](https://blog.virtual-void.net/2022/10/11/experiments-with-io-uring/)
 - [IO_uring Fixed Buffer Versus Non-Fixed Buffer Performance Comparison on NVMe](https://00pauln00.medium.com/io-uring-fixed-buffer-versus-non-fixed-buffer-performance-comparison-9fd506de6829)
 - [Missing manuals - io_uring worker pool](https://blog.cloudflare.com/missing-manuals-io_uring-worker-pool/)
+- [io_uring in Android OTA](https://lpc.events/event/16/contributions/1331/attachments/951/1867/LPC2022%20-%20io_uring%20in%20Android%20OTA.pdf): Linux plumbers conference 2022 presentation
 
 ## Videos
 
