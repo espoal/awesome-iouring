@@ -111,10 +111,11 @@ Projects using `io_uring`
 
 ### Databases
 
-- [Yottastore](https://github.com/yottaStore/yottaStore)
-- [Scylladb](https://github.com/scylladb/scylladb)
+- [ClickHouse](https://github.com/ClickHouse/ClickHouse)
 - [Postgres](https://github.com/anarazel/postgres/tree/aio) (experimental)
 - [questdb](https://github.com/questdb/questdb)
+- [Scylladb](https://github.com/scylladb/scylladb)
+- [Yottastore](https://github.com/yottaStore/yottaStore)
 
 ### Storage engines <a name="storage"></a>
 
@@ -147,6 +148,7 @@ Articles about `io_uring`
 - [IO_uring Fixed Buffer Versus Non-Fixed Buffer Performance Comparison on NVMe](https://00pauln00.medium.com/io-uring-fixed-buffer-versus-non-fixed-buffer-performance-comparison-9fd506de6829)
 - [Missing manuals - io_uring worker pool](https://blog.cloudflare.com/missing-manuals-io_uring-worker-pool/)
 - [io_uring in Android OTA](https://lpc.events/event/16/contributions/1331/attachments/951/1867/LPC2022%20-%20io_uring%20in%20Android%20OTA.pdf): Linux plumbers conference 2022 presentation
+- [A journey to io_uring, AIO and modern storage devices](https://clickhouse.com/blog/a-journey-to-io_uring-aio-and-modern-storage-devices): includes experiments on Optane storage
 
 ## Videos
 
