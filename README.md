@@ -68,6 +68,10 @@ using `io_uring`
 - [libunifex](https://github.com/facebookexperimental/libunifex): Facebook prototype for cpp async 
 programming model
 
+### D
+
+- [during](https://github.com/tchaloupka/during): An `io_uring` implementation in pure Dlang
+
 ### Rust
 
 - [tokio-uring](https://github.com/tokio-rs/tokio-uring): An `io_uring` backend for `tokio`
