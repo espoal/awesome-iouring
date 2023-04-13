@@ -146,6 +146,7 @@ Projects using `io_uring`
 ## Articles
 Articles about `io_uring`
 
+- [Why you should use `io_uring`](https://developers.redhat.com/articles/2023/04/12/why-you-should-use-iouring-network-io)
 - [Efficient IO with `io_uring`](https://kernel.dk/io_uring.pdf)
 - [Ringing in a new asynchronous I/O API](https://lwn.net/Articles/776703/)
 - [How io_uring and eBPF Will Revolutionize Programming in Linux](https://www.scylladb.com/2020/05/05/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/)
