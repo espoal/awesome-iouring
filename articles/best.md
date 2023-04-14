@@ -10,4 +10,4 @@ leave synchronization to the kernel
 
 - If you're doing Go/Rust, consider using syscalls instead 
 of implementing unsafe `liburing`
-- Remember to use a recent kernel (6.0+)
+- Remember to use a recent kernel (6.2+)
