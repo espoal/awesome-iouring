@@ -82,6 +82,7 @@ programming model
 
 ### Golang
 
+- [gain](https://github.com/pawelgaczynski/gain) - A high-performance, lightweight `io_uring` networking framework written entirely in Go.
 - [gouring](https://github.com/ii64/gouring): Amazing `io_uring` library in pure golang
 - [iouring-go](https://github.com/Iceber/iouring-go): Async interface for `io_uring`
 
