@@ -102,6 +102,7 @@ programming model
 - [Jasyncfio](https://github.com/ikorennoy/jasyncfio): Async io library
 - [nio_uring](https://github.com/bbeaupain/nio_uring): Async io library
 - [Netty transport](https://github.com/netty/netty-incubator-transport-io_uring)
+- [PanamaUring](https://github.com/dreamlike-ocean/PanamaUring) :Use java Panama ffi api to provide io_uring binding for java without using jni binding, while unifying the models of file IO and network IO, and providing an easy-to-use asynchronous IO API
 
 ### Kotlin
 
