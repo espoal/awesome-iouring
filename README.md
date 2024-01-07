@@ -75,6 +75,7 @@ programming model
 
 ### Rust
 
+- [nuclei](https://github.com/vertexclique/nuclei): Reactor agnostic Proactive IO engine using `io_uring`
 - [tokio-uring](https://github.com/tokio-rs/tokio-uring): An `io_uring` backend for `tokio`
 - [io-uring](https://github.com/tokio-rs/io-uring): From the authors of `tokio`, without `tokio` dependency
 - [rio](https://github.com/spacejam/rio): Pure rust `io_uring` library, unfortunately unmaintained 
