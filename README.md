@@ -80,6 +80,7 @@ programming model
 - [nuclei](https://github.com/vertexclique/nuclei): Reactor agnostic Proactive IO engine using `io_uring`
 - [rio](https://github.com/spacejam/rio): Pure rust `io_uring` library, unfortunately unmaintained 
 - [Ringbahn](https://github.com/ringbahn/ringbahn): `io_uring` library from Berlin. Unfortunately unmaintained.
+- [compio](https://github.com/compio-rs/compio): A single threaded async runtime using `io_uring` on Linux if available.
 
 ### Golang
 
