@@ -78,6 +78,7 @@ programming model
 - [tokio-uring](https://github.com/tokio-rs/tokio-uring): An `io_uring` backend for `tokio`
 - [io-uring](https://github.com/tokio-rs/io-uring): From the authors of `tokio`, without `tokio` dependency
 - [nuclei](https://github.com/vertexclique/nuclei): Reactor agnostic Proactive IO engine using `io_uring`
+- [compio](https://github.com/compio-rs/compio): A single threaded async runtime using `io_uring` on Linux if available.
 - [rio](https://github.com/spacejam/rio): Pure rust `io_uring` library, unfortunately unmaintained 
 - [Ringbahn](https://github.com/ringbahn/ringbahn): `io_uring` library from Berlin. Unfortunately unmaintained.
 
