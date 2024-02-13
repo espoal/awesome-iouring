@@ -57,6 +57,7 @@ Libraries for using `io_uring`
 - [xnvme](https://xnvme.io/): NVMe library with `io_uring` support
 - [SPDK](https://spdk.io/): Intel library focused on performant io, with `io_uring` support
 - [libev](https://github.com/hanyong/libev): High performance event loop
+- [ioucontext](https://github.com/pallas/ioucontext): `io_uring` with `ucontext` fibers
 
 ### C++
 
