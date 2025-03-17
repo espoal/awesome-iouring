@@ -85,6 +85,7 @@ programming model
 
 ### Golang
 
+- [rio](https://github.com/brickingsoft/rio) - AIO network library based on `io_uring`, non CGO, and following standard library usage design patterns.
 - [gain](https://github.com/pawelgaczynski/gain) - A high-performance, lightweight `io_uring` networking framework written entirely in Go.
 - [gouring](https://github.com/ii64/gouring): Amazing `io_uring` library in pure golang
 - [iouring-go](https://github.com/Iceber/iouring-go): Async interface for `io_uring`
