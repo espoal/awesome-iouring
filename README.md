@@ -3,7 +3,7 @@
 for the linux kernel, [find out why](https://www.scylladb.com/2020/05/05/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/).
 
 In this repository we try to collect examples, tutorials and
-documentation about this amazing project, to raise awarness
+documentation about this amazing project, to spread awarness
 and knowledge.
 
 # Table of contents
