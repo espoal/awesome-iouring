@@ -69,6 +69,7 @@ with coroutines support
 using `io_uring`
 - [libunifex](https://github.com/facebookexperimental/libunifex): Facebook prototype for cpp async 
 programming model
+- [condy](https://github.com/wokron/condy): C++ coroutine runtime for `io_uring`, featuring zero-overhead abstractions and comprehensive feature coverage
 
 ### D
 
