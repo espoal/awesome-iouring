@@ -21,6 +21,7 @@ and knowledge.
    - [Java](#Java)
    - [Kotlin](#Kotlin)
    - [OCaml](#OCaml)
+   - [zig](#zig)
 
 5. [Projects](#projects)
    - [Databases](#Databases)
@@ -116,6 +117,12 @@ programming model
 ### Ocaml
 
 - [ocaml-uring](https://github.com/ocaml-multicore/ocaml-uring): `io_uring` bindings for OCaml
+
+
+### zig
+
+- [async_io_uring](https://github.com/saltzm/async_io_uring): An event loop in Zig using `io_uring` and coroutines
+- [zio](https://github.com/lalinsky/zio): Async I/O framework for Zig 
 
 
 ## Projects 
