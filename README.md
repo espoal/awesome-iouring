@@ -119,7 +119,7 @@ programming model
 - [ocaml-uring](https://github.com/ocaml-multicore/ocaml-uring): `io_uring` bindings for OCaml
 
 
-### Zig
+### zig
 
 - [async_io_uring](https://github.com/saltzm/async_io_uring): An event loop in Zig using `io_uring` and coroutines
 - [zio](https://github.com/lalinsky/zio): Async I/O framework for Zig 
