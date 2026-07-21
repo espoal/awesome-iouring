@@ -21,7 +21,7 @@ and knowledge.
    - [Java](#Java)
    - [Kotlin](#Kotlin)
    - [OCaml](#OCaml)
-   - [Zig](#Zig)
+   - [zig](#zig)
 
 5. [Projects](#projects)
    - [Databases](#Databases)
